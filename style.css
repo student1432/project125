@@ -1,0 +1,35 @@
+.heading
+{
+    width: 100%;
+}
+.FM
+{
+  font-weight: bold;
+  font-size: large;
+  color: white;
+  letter-spacing: 2px;
+}
+.fontsize
+{
+  font-size: medium;
+  color: white;
+  letter-spacing: 2px;
+}
+.footer
+{
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 50px;
+    position:fixed;
+    text-align: center;
+
+}
+canvas
+{
+    border: 5px, solid grey;
+    background-color: white;
+    box-shadow: 5px, 5px, 5px grey;
+    margin-bottom: 100px;
+}
